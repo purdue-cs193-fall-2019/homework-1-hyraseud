@@ -9,6 +9,7 @@
 - Had to buy an iclicker specifically for this class 
 - Met some interesting classmates
 
-<link href="https://www.reddit.com/r/Purdue/" rel="learn more about purdue"> 
+<a href="https://www.reddit.com/r/Purdue/"> click to learn more about purdue </a> 
+
 <img src="https://i.imgur.com/nBvAT6V.jpg" alt="fun">
 
