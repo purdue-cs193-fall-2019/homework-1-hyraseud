@@ -11,22 +11,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Shreya Dua's first CS 193 Homework
+## CS 193 is a class at Purdue University 
+### Boiler up !!
 
-- Bulleted
-- List
+#### Favorite things about CS 193
+- It's a fun class
+- The lectures are cool
+- Had to buy an iclicker specifically for this class 
+- Met some interesting classmates
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Link](https://www.reddit.com/r/Purdue/) and ![Image](https://i.imgur.com/nBvAT6V.jpg)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
